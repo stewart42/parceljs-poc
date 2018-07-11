@@ -5,11 +5,12 @@
   "author": "Stewart Scott <stewart42@gmail.com>",
   "private": true,
   "scripts": {
-    "start": "parcel ./public/index.html"
+    "start": "parcel ./public/index.html --open"
   },
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
+    "node-sass": "^4.9.2",
     "parcel": "^1.9.4"
   },
   "dependencies": {
