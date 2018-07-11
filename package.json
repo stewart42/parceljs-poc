@@ -1,0 +1,19 @@
+{
+  "name": "gooddread",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stewart Scott <stewart42@gmail.com>",
+  "private": true,
+  "scripts": {
+    "start": "parcel ./public/index.html"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel": "^1.9.4"
+  },
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
